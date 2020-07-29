@@ -1,4 +1,4 @@
-# group_chat_app
+# flutter_group_chat_app
 
 A new Flutter project.
 
