@@ -16,6 +16,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## App Demo:
-![App Demo](first.gif)    ![App Demo](second.gif)
+![App Demo](first.gif)   
+<br/>
+![App Demo](second.gif)
 
 
