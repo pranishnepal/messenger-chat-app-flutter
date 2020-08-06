@@ -1,6 +1,6 @@
 # flutter_group_chat_app
 
-A new Flutter project.
+A messaging app made with flutter using Google Firebase. The gif below isn't of the best video quality; hopefully it's not too bad. Sorry about that!
 
 ## Getting Started
 
